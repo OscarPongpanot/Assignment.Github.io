@@ -18,7 +18,7 @@
 3. เลือก **Design View**
 4. ในหน้าต่าง Design View ให้ค้นหา Field Name ที่ชื่อว่า `locations` แล้วดูค่าในคอลัมน์ **Data Type**
 
-![แสดงหน้าต่าง Design View ของตาราง Employees](ใส่ลิงก์รูปภาพของคุณที่นี่)
+![แสดงหน้าต่าง Design View ของตาราง Employees](1..png)
 
 **คำตอบ:** * `[เติมคำตอบ Data Type ที่พบ เช่น Short Text หรือ Lookup Wizard]`
 
