@@ -35,7 +35,7 @@
 
 ![แสดงหน้าต่าง Relationships ที่เห็นตาราง Orders](<Comptia Assign Pic/1.3.7/2..png>)
 
-**คำตอบ:** * `Customers, Employees`
+**คำตอบ:** * `Customers, Employees, products`
 
 ---
 
