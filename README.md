@@ -35,7 +35,7 @@
 
 ![แสดงหน้าต่าง Relationships ที่เห็นตาราง Orders](<Comptia Assign Pic/1.3.7/2..png>)
 
-**คำตอบ:** * `[Customers, Employees]`
+**คำตอบ:** * `Customers, Employees`
 
 ---
 
@@ -48,6 +48,6 @@
 2. คลิกขวาที่ตาราง `Products` แล้วเลือก **Design View** (หรือดูประกอบจากหน้าต่าง Relationships ในขั้นตอนที่ 2)
 3. ค้นหาฟิลด์ที่ทำหน้าที่เป็น Foreign Key (คีย์นอก) ซึ่งมักจะเป็นฟิลด์ที่ใช้เชื่อมโยงกับ Primary Key (คีย์หลัก) ของตารางอื่น เพื่อระบุหมวดหมู่หรือประเภท
 
-![แสดงหน้าต่าง Design View ของตาราง Products หรือเส้นความสัมพันธ์](ใส่ลิงก์รูปภาพของคุณที่นี่)
+![แสดงหน้าต่าง Design View ของตาราง Products หรือเส้นความสัมพันธ์](<Comptia Assign Pic/1.3.7/2..png>)
 
-**คำตอบ:** * `[ProductType]`
+**คำตอบ:** * `ProductType`
