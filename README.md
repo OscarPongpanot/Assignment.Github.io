@@ -20,7 +20,7 @@
 
 ![แสดงหน้าต่าง Design View ของตาราง Employees](1..png)
 
-**คำตอบ:** * `[เติมคำตอบ Data Type ที่พบ เช่น Short Text หรือ Lookup Wizard]`
+**คำตอบ:** * `Short text`
 
 ---
 
