@@ -18,7 +18,7 @@
 2. คลิกที่เซลล์ A1 จากนั้นกดคีย์ลัด `Ctrl + Shift + ลูกศรลง (Down Arrow)` เพื่อคลุมดำข้อมูลทั้งคอลัมน์
 3. สังเกตที่แถบสถานะ (Status Bar) ด้านล่างขวาของหน้าจอ Excel จะแสดงค่า `Count:` ซึ่งบอกจำนวนบรรทัดทั้งหมด (อย่าลืมลบ 1 บรรทัดที่เป็น Header ออก)
 
-![แสดงแถบ Status Bar ด้านล่างขวาของโปรแกรม Excel](<Comptia Assign Pic/1.3.7/1..png>)
+![แสดงแถบ Status Bar ด้านล่างขวาของโปรแกรม Excel](<Comptia Assign Pic/12.2.9/1..png>)
 
 **คำตอบ:** * `60919`
 
@@ -47,7 +47,7 @@
 3. พิมพ์ค้นหาคำว่า `Water Bottle - 30oz.` แล้วกด OK
 4. ดูค่าในคอลัมน์ `UnitPrice` ของแถวที่ปรากฏขึ้นมา
 
-![แสดงการใช้ Filter ค้นหาชื่อสินค้าและดูราคา](<Comptia Assign Pic/1.3.7/3..png>)
+![แสดงการใช้ Filter ค้นหาชื่อสินค้าและดูราคา](<Comptia Assign Pic/12.2.9/3..png>)
 
 **คำตอบ:** * `2.99`
 
@@ -62,7 +62,7 @@
 2. คลิก Filter ที่คอลัมน์ `Name` พิมพ์ค้นหาคำว่า `Patch Kit/8 Patches`
 3. ดูรหัสในคอลัมน์ `ProductNumber` ของแถวที่ปรากฏ
    
-![แสดงการใช้ Filter ค้นหาชื่อสินค้าและดูราคา](<Comptia Assign Pic/1.3.7/4..png>)
+![แสดงการใช้ Filter ค้นหาชื่อสินค้าและดูราคา](<Comptia Assign Pic/12.2.9/4..png>)
 
 **คำตอบ:** * `PK-7098`
 
@@ -79,7 +79,7 @@
 3. พิมพ์คำว่า `Chain` แล้วกด OK
 4. คลุมดำข้อมูลที่ถูกกรอง แล้วดูจำนวน `Count` ที่แถบ Status Bar ด้านล่าง
 
-![แสดงการใช้ Text Filter แบบ Contains](<Comptia Assign Pic/1.3.7/5..png>)
+![แสดงการใช้ Text Filter แบบ Contains](<Comptia Assign Pic/12.2.9/5..png>)
 
 **คำตอบ:** * `250`
 
@@ -112,7 +112,7 @@
 3. ลาก `OrderQty` ไปไว้ที่ช่อง **Values** (ให้แน่ใจว่าเป็น Sum of OrderQty)
 4. เลื่อนหารหัสสินค้า `712` ใน Pivot Table แล้วดูผลรวมในช่อง OrderQty
 
-![แสดงการจัดวาง Field ใน Pivot Table](<Comptia Assign Pic/1.3.7/6..png>)
+![แสดงการจัดวาง Field ใน Pivot Table](<Comptia Assign Pic/12.2.9/6..png>)
 
 **คำตอบ:** * `6121`
 
@@ -152,7 +152,7 @@
 3. หาค่าสูงสุด: พิมพ์สูตร `=MAX(คลิกคลุมคอลัมน์ OrderQty)`
 4. หาค่าต่ำสุด: พิมพ์สูตร `=MIN(คลิกคลุมคอลัมน์ OrderQty)`
 
-![แสดงการพิมพ์สูตร Average, Max, Min](<Comptia Assign Pic/1.3.7/7..png>)
+![แสดงการพิมพ์สูตร Average, Max, Min](<Comptia Assign Pic/12.2.9/7..png>)
 
 **คำตอบ:** * Mean: `5`
 * Highest: `27`
@@ -201,7 +201,7 @@
 4. โฟกัสเฉพาะกราฟปี 2012 ดูว่าเดือนไหนที่แท่งกราฟต่ำที่สุด (ตอบข้อ 6)
 5. โฟกัสเฉพาะกราฟปี 2012 ดูว่าเดือนสิงหาคมมีค่า Orderqty อยู่เท่าไหร่ (ตอบข้อ 7)
 
-![แสดงกราฟ Pivot Chart ข้อมูลรายเดือน](<Comptia Assign Pic/1.3.7/8..png>)
+![แสดงกราฟ Pivot Chart ข้อมูลรายเดือน](<Comptia Assign Pic/12.2.9/8..png>)
 
 **คำตอบ:** * 5. Highest month: `Jun`
 * 6. Lowest month 2012: `Deb`
@@ -218,7 +218,7 @@
 3. เปลี่ยน Format เซลล์ให้เป็น Percentage (%)
 4. ดูว่าเดือนไหนมี % สูงที่สุด (ตอบข้อ 7) และเดือนไหนที่ค่าติดลบ หรือได้ค่า 0 (ตอบข้อ 8)
 
-![แสดงหน้าต่างเปอร์เซ็นต์การเปลี่ยนแปลง Percent of Change](<Comptia Assign Pic/1.3.7/9..png>)
+![แสดงหน้าต่างเปอร์เซ็นต์การเปลี่ยนแปลง Percent of Change](<Comptia Assign Pic/12.2.9/9..png>)
 
 **คำตอบ:** * 7. Greatest % change: `Feb`
 * 8. Months with no increase: `Jan , Dec`
@@ -238,7 +238,7 @@
 2. เลือก `Descriptive Statistics` แล้วกด OK
 3. ช่อง Input Range ให้คลุมดำข้อมูลในคอลัมน์ `LineTotal`
 4. ติ๊กถูกที่ช่อง `Summary statistics` แล้วกด OK ให้โปรแกรมประมวลผลออกเป็นหน้าต่างสถิติใหม่
-5. ดูค่าตัวเลขในบรรทัดที่เขียนว่า **Median** และ **Mode** ![แสดงหน้าต่างผลลัพธ์ Descriptive Statistics](<Comptia Assign Pic/1.3.7/10..png>)
+5. ดูค่าตัวเลขในบรรทัดที่เขียนว่า **Median** และ **Mode** ![แสดงหน้าต่างผลลัพธ์ Descriptive Statistics](<Comptia Assign Pic/12.2.9/10..png>)
 
 **คำตอบ:** * Median: `20.746`
 * Mode: `10`
