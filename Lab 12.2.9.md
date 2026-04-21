@@ -1,4 +1,4 @@
-# Lab 12.2.9 : Analyze Data 
+# Lab 12.2.9 Applied Live Lab : Analyze Data 
 
 **เป้าหมายของ Lab:** เพื่อฝึกฝนทักษะการทำความสะอาด ตรวจสอบ และวิเคราะห์ข้อมูลเบื้องต้น (Exploratory Analysis) ผ่านข้อมูลยอดขาย (Sales Order Details) ของ AdventureWorks2019 โดยใช้เครื่องมือใน Excel เช่น การหาค่ากลาง (Central Tendency), การสร้าง Pivot Table, การวิเคราะห์แนวโน้ม (Trend Analysis) และการใช้ Data Analysis Toolpak
 
@@ -20,7 +20,7 @@
 
 ![แสดงแถบ Status Bar ด้านล่างขวาของโปรแกรม Excel](ใส่ลิงก์รูปภาพของคุณที่นี่)
 
-**คำตอบ:** * `[เลือกคำตอบที่ตรงกับ Count ใน Excel ของคุณ เช่น 149053]`
+**คำตอบ:** * `60919`
 
 ---
 
